@@ -1,0 +1,21 @@
+# https://www.leakedsource.com/blog/socialblade
+123456;294
+123456789;254
+socialblade;90
+password;84
+12345678;82
+minecraft;73
+1234567890;63
+qwerty;53
+123123;51
+7780546ab;45
+youtube;44
+pokemon1;43
+minecraft1;41
+lol123;40
+qwerty123;38
+1234567;38
+1q2w3e4r;36
+123123123;33
+qwertyuiop;33
+043101062;31
